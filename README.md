@@ -1,7 +1,7 @@
 # AnacondaEnv
 ## Introduction
 This repository is generally to store 'yml' file to create an Anaconda Environment required to run a project in my account.  
-I don't use anaconda for all my projects. The projects which contain 'anacondaenv' submodule are the one where you would need to create an environment by importing the 'yml' file
+I don't use anaconda for all my projects. The projects which contain 'AnacondaEnv' submodule are the one where you would need to create an environment by importing the 'yml' file
 
 ## Usage
 Open Anaconda prompt and paste the following to create the desired environment
